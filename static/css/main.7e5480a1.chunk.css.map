@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,OACE,cAAe,CACf,yBAAkB,CAAlB,iBAAkB,CAClB,WAAY,CAEZ,oBAAqB,CACrB,wBAAyB,CACzB,iBAAkB","file":"main.7e5480a1.chunk.css","sourcesContent":[".error {\n  font-size: 18px;\n  width: max-content;\n  padding: 7px;\n  \n  background-color: red;\n  border: 1px solid darkred;\n  border-radius: 5px;\n}\n"]}
